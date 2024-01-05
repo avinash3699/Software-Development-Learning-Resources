@@ -7,6 +7,6 @@
 
 ## Best Practices/ Guidelines/ Principles
 * Never Nest
-    * [Why You Shouldn't Nest Your Code and How to get rid of nested code]([https://medium.com/codex/why-you-shouldnt-nest-your-code-185cf2e2cde3](https://medium.com/codex/why-you-shouldnt-nest-your-code-185cf2e2cde3))
+    * [Why You Shouldn't Nest Your Code and How to get rid of nested code](https://medium.com/codex/why-you-shouldnt-nest-your-code-185cf2e2cde3)
 * Fail Fast
     * [Introduction to the ‘Fail Fast!’ Principle in Software Development](https://medium.com/@christian.ppl/introduction-to-the-fail-fast-principle-in-software-development-865ccab28979)
